@@ -1,0 +1,213 @@
+.Principal 
+{
+	width: 1500px;
+	height: 1500px;
+	margin: 0, auto;
+	background-color: white;
+}
+.Intro
+{
+	width: 1500px;
+	height: 1250px;
+	background-color: white;
+}
+.Buscador
+{
+	width: 350px;
+	height: 1250px;
+	background-color: white;
+	float: left;
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	font-size: 30px;
+}
+.Buscar
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 80px;
+}
+.Texto6
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+}
+.Texto7
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+}
+.Texto8
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+}
+.Texto9
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+}
+.Texto10
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 120px;
+    margin-top: 10px;
+}
+.Arrow2
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 60px;
+}
+.Dollfactory
+{
+	width: 787px;
+	height: 1250px;
+	background-color: white;
+	text-align: center;
+	font-size: 75px;
+	float: left;
+}
+.Dollfactoryup
+{
+	width: 787px;
+	height: 330px;
+	background-color: white;
+	float: left;
+	text-align: center;
+	font-size: 65px;
+	border-color: black;
+	margin-top: 5px;
+
+}
+.Titulo1
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 100px;
+    margin-top: 20px;
+}
+.Texto2
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    margin-top: 9px;
+}
+.Texto3
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+}
+.Texto4
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.Texto5
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.imagen2
+{
+	width: 200px;
+	height: 200px;
+}
+.imagen3
+{
+	width: 200px;
+	height: 200px;
+}
+.Ads
+{
+	width: 350px;
+	height: 1250px;
+	background-color:whitesmoke;
+	float: right;
+	border-style: solid;
+	border-color: black;
+
+}
+.Texto11
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.imagen4
+{
+	width: 150px;
+	height: 150px;
+}
+.Texto12
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.imagen5
+{
+	width: 150px;
+	height: 150px;
+}
+.Texto13
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.imagen6
+{
+	width: 150px;
+	height: 150px;
+}
+.imagen1
+{
+	width: 350px;
+	height: 300px;
+	border-style: solid;
+	border-color: black;
+}
+.Footer
+{
+	width: 1495px;
+	height: 400px;
+	background-color:whitesmoke;
+	float: inherit;
+	border-style: solid;
+	border-color: black;
+}
+.Texto14
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+}
+.Texto15
+{
+	font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+}
